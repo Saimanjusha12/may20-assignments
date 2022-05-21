@@ -1,0 +1,7 @@
+Class Solution:
+    def singleNumber(self,numb):
+        num.sort():
+        for i in num:
+            if num.count(i)==1
+               return i
+               break
